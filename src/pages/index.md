@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
@@ -32,4 +33,35 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+=======
+ua:
+  main:
+    description: testt
+    image1:
+      image: /img/apple-touch-icon.png
+      alt: test
+    image2:
+      image: /img/blog-index.jpg
+      alt: test
+    image3:
+      image: /img/blog-index.jpg
+      alt: test
+    heading: test
+  title: test
+  image: /img/blog-index.jpg
+  heading: test
+  subheading: test
+  mainpitch:
+    title: test
+    description: test
+  description: test
+en:
+  main:
+    image1:
+      alt: test
+    image2:
+      alt: test
+    image3:
+      alt: test
+>>>>>>> 3f104e37e822ac9d648cb89ae884a45ae9774701
 ---

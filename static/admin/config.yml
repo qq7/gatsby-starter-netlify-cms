@@ -70,7 +70,7 @@ collections:
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
-        i18n: true
+        i18n:
           structure: single_file
           locales: [ua, en]
         fields:
